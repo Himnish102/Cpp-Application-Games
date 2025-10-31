@@ -1,4 +1,4 @@
-# C-Application-Games
+# Cpp-Application-Games
 
 ### Due to size of the game, all the game is saved in google drive (links below)
 
